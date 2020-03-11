@@ -1,0 +1,23 @@
+{
+  "name": "qs",
+  "version": "1.0.0",
+  "description": "<querystring>.parse",
+  "main": "querystring.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khafradev/qs.git"
+  },
+  "keywords": [
+    "querystring",
+    "parse"
+  ],
+  "author": "Khafra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khafradev/qs/issues"
+  },
+  "homepage": "https://github.com/khafradev/qs#readme"
+}
